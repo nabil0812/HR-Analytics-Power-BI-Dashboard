@@ -1,6 +1,6 @@
 # HR Analytics Power BI Dashboard
 
-!https://github.com/nabil0812/HR-Analytics-Power-BI-Dashboard/blob/main/hr%20analytics%20dashboard.png 
+!(https://github.com/nabil0812/HR-Analytics-Power-BI-Dashboard/blob/main/hr%20analytics%20dashboard.png)
 
 ### Objective
 The HR Analytics Power BI Dashboard is designed to help organizations improve employee performance and enhance employee retention (reduce attrition). By providing detailed insights and visualizations of key HR metrics, the dashboard aims to support data-driven decision-making to foster a more engaged and effective workforce.
